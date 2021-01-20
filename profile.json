@@ -1,0 +1,245 @@
+{
+    "config": {
+        "notify": {
+            "sendTo": "slack@DPLC1UXUN",
+            "apikey": "5ef0c54c3dc0e822ccbc9f55",
+            "secret": "tc5I1OtbFngcW5jQxT8JaU1dfbLEMO39",
+            "expiry": "1m"
+        },
+        "_blank": "data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs"
+    },
+    "about": {
+        "label": "About Me",
+        "avatar": "https://www.gravatar.com/avatar/ac83bcaa69d227cbee180013edbcdda3.jpg?s=320",
+        "download": "https://www.gravatar.com/avatar/ac83bcaa69d227cbee180013edbcdda3.jpg?s=320",
+        "signature": "https://fontmeme.com/permalink/200606/1e6cdb00bf29790e149909f86bc49fe8.png",
+        "fullName": "Kanak Boro",
+        "shortName": "Kanak",
+        "highlights": "Creativity,Responsibility,Leadership,Management",
+        "birthDate": "Mar 01, 1998",
+        "email": "borokanak262@gmail.com",
+        "phoneNo": "(+91) 7015766397",
+        "address": "H.No:- 258,Ward No:- 8, Naraingarh(Ambala)",
+        "brief": "A lad capable to turn caffeine into codes.",
+        "description": "Hello, I'm Kanak! \n A Software Developer specializing in Android Application development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including Kotlin, Core Java etc.\"",
+        "gmap": {
+            "lat": "30.4785",
+            "long": "77.1313",
+            "zoom": "14"
+        }
+    },
+
+    "social": {
+        "github": "https://github.com/kanakboro/",
+        "twitter": "https://twitter.com/borokanak2621/",
+        "linkedin": "https://www.linkedin.com/in/kanak-boro-182556144/",
+        "facebook": "https://facebook.com/kanakalex.bro/",
+        "dribbble": "https://dribbble.com/kingkb/",
+        "instagram": "https://www.instagram.com/k_a_n_a_k._/",
+        "stackoverflow": "https://github.com/kanakboro/"
+    },
+
+    "languages": {
+        "label": "Languages",
+        "items": [
+            {
+                "title": "English",
+                "amount": "85",
+                "level": "Proficient"
+            },
+            {
+                "title": "Hindi",
+                "amount": "99",
+                "level": "Native"
+            },
+            {
+                "title": "Assamese",
+                "amount": "99",
+                "level": "Native"
+            }
+        ]
+    },
+
+    "skills": {
+        "label": "Skill Stack",
+        "items": [
+            {
+                "title": "Android Studio",
+                "amount": 96
+            },
+            {
+                "title": "Kotlin",
+                "amount": 85
+            },
+            {
+                "title": "Core Java",
+                "amount": 89
+            },
+            {
+                "title": "Socket.io",
+                "amount": 72
+            },
+            {
+                "title": "Rest API",
+                "amount": 93
+            },
+            {
+                "title": "UI Design (XML)",
+                "amount": 97
+            },
+            {
+                "title": "Firebase",
+                "amount": 84
+            },
+            {
+                "title": "C",
+                "amount": 65
+            }
+        ]
+    },
+
+    "experience": {
+        "label": "Livelihood",
+        "items": [
+            {
+                "title": "Android Developer",
+                "place": "Apptunix - Mobile App Development Company",
+                "location": "3rd Floor, C-127, Phase 8, Industrial Area, Sector 73, Sahibzada Ajit Singh Nagar, Punjab 160071",
+                "duration": "2019 - Present",
+                "description": "Worked as part of a multi-disciplinary team, carrying out ad-hoc tasks as requested by the IT Manager. Had a specific brief to ensure the websites build for customer’s precisely matched their requirements developers and marketers."
+            }
+        ]
+    },
+
+    "education": {
+        "label": "Scholastic",
+        "items": [
+            {
+                "course": "Bachelor of Technology",
+                "academy": "Kurukshetra University",
+                "duration": "2017 - 2020",
+                "description": "Being Electronic & Communication Engineer, I gained vast amount of knowledge even in software and IT industry as well."
+            },
+            {
+                "course": "Diploma",
+                "academy": "Haryana State Board of Technical Education",
+                "duration": "2014 - 2017",
+                "description": "During this time frame, I have learned basic concepts in better practical way. It gave me wide array of opportunity to work on lot of things."
+            },
+            {
+                "course": "Schooling",
+                "academy": "Haryana Board of School Education",
+                "duration": "Passed in 2014",
+                "description": "It was a place where I spent my childhood with new mates while gaining broaden knowledge in last decades."
+            }
+        ]
+    },
+
+    "portfolio": {
+        "label": "Latest Works",
+        "hastags": "Android",
+        "items": [
+            {
+                "tags": "#findfit #workout",
+                "label": "FindFit People",
+                "brief": "Find professional coaches nearby to you and easily hire your favorite one as your coach",
+                "image": "https://picsum.photos/id/1018/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#travelling #taxi",
+                "label": "Toor",
+                "brief": "Toor app is a great way to make your travel plans stress-free. Request a trip on demand.",
+                "image": "https://picsum.photos/id/292/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#courier #androidapplication",
+                "label": "Stay Home",
+                "brief": "Courier any product to your favorite one from anywhere .'STAY HOME' we are here for you!",
+                "image": "https://picsum.photos/id/304/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#shopping #onlineshop",
+                "label": "Mokabook",
+                "brief": "Online shopping with Mokabook is very easy as you get to shop from the comfort of your home and get products delivered at your doorstep",
+                "image": "https://picsum.photos/id/1011/480/640",
+                "link": "#"
+            },
+            {
+                "tags": "#driver #Delivery",
+                "label": "Bigi Driver",
+                "brief": "Driver application to deliver orders to the customers. Driver can choose for which type of delivery they want to do i.e Food , Groxery and Taxi",
+                "image": "https://picsum.photos/id/301/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#foodapp #customerapp",
+                "label": "Bigi Customer",
+                "brief": "Customer Application with features of placing order (Food,Groxery and Taxi), Live Track the order and Accept order from the Bigi Driver.",
+                "image": "https://picsum.photos/id/326/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#grocery #androidapp",
+                "label": "Day Fresh",
+                "brief": "Shop from a vast range of products including farm-fresh fruits and vegetables, groceries & more at the best prices.",
+                "image": "https://picsum.photos/id/452/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#beauty #menandwomen",
+                "label": "Renadia",
+                "brief": "Through the app, you can book at home services - from beauty & wellness for women and men",
+                "image": "https://picsum.photos/id/429/480/320",
+                "link": "#"
+            },
+            {
+                "tags": "#genie #onlinebooking",
+                "label": "Genie",
+                "brief": "Through the app, you can book at home services - from doctor & wellness, to home repairs and maintenance services, such as carpenter, electrician and plumber.",
+                "image": "https://picsum.photos/id/484/478/320",
+                "link": "#"
+            },
+            {
+                "tags": "#product #driverapp",
+                "label": "Product Driver",
+                "brief": "Turn your spare time into money with the new Driver app – built in partnership with drivers to bring you the tools you need to succeed.Help move people and things where they need to go. Drive whenever you want – no offices, no bosses. Wherever you want to go, we want you to enjoy the journey and the destination.",
+                "image": "https://picsum.photos/id/484/478/320",
+                "link": "#"
+            },
+            {
+                "tags": "#product #driverapp",
+                "label": "Product Driver",
+                "brief": "Turn your spare time into money with the new Driver app – built in partnership with drivers to bring you the tools you need to succeed.Help move people and things where they need to go. Drive whenever you want – no offices, no bosses. Wherever you want to go, we want you to enjoy the journey and the destination.",
+                "image": "https://picsum.photos/id/484/478/320",
+                "link": "#"
+            },
+            {
+                "tags": "#onlineorder #drinks",
+                "label": "Tehbola",
+                "brief": "Through the application user can order variety of drinks from anywhere online.",
+                "image": "https://picsum.photos/id/484/478/320",
+                "link": "#"
+            },
+            {
+                "tags": "#product #driverapp",
+                "label": "Mazat",
+                "brief": "Find your favourite local restaurants, as well as top chains like Dominos, KFC, Burger King, Pizza Hut, Mc Donald’s, Subway and more, then Order food, groceries, and other essentials online.",
+                "image": "https://picsum.photos/id/484/478/320",
+                "link": "#"
+            }
+        ]
+    },
+
+    "hobbies": {
+        "label": "I love to do...",
+        "items": []
+    },
+
+    "reference": {
+        "label": "It's all about me...",
+        "items": []
+    }
+}
