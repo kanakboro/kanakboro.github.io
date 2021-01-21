@@ -1,21 +1,16 @@
 {
     "config": {
-        "notify": {
-            "sendTo": "slack@DPLC1UXUN",
-            "apikey": "5ef0c54c3dc0e822ccbc9f55",
-            "secret": "tc5I1OtbFngcW5jQxT8JaU1dfbLEMO39",
-            "expiry": "1m"
-        },
+        "notify": {},
         "_blank": "data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs"
     },
     "about": {
         "label": "About Me",
         "avatar": "https://www.gravatar.com/avatar/97c575589e7bb022a5fd8f0b9c7bf584.jpg?s=320",
         "download": "https://www.gravatar.com/avatar/97c575589e7bb022a5fd8f0b9c7bf584.jpg?s=320",
-        "signature": "https://fontmeme.com/permalink/200606/1e6cdb00bf29790e149909f86bc49fe8.png",
+        "signature": "",
         "fullName": "Kanak Boro",
         "shortName": "Kanak",
-        "highlights": "Creativity,Responsibility,Leadership,Management",
+        "highlights": "Android Developer",
         "birthDate": "Mar 01",
         "email": "borokanak262@gmail.com",
         "phoneNo": "(+91) 7015766397",
@@ -35,8 +30,7 @@
         "linkedin": "https://www.linkedin.com/in/kanak-boro-182556144/",
         "facebook": "https://facebook.com/kanakalex.bro/",
         "dribbble": "https://dribbble.com/kingkb/",
-        "instagram": "https://www.instagram.com/k_a_n_a_k._/",
-        "stackoverflow": "https://github.com/kanakboro/"
+        "instagram": "https://www.instagram.com/k_a_n_a_k._/"
     },
 
     "languages": {
@@ -104,9 +98,9 @@
             {
                 "title": "Android Developer",
                 "place": "Apptunix - Mobile App Development Company",
-                "location": "3rd Floor, C-127, Phase 8, Industrial Area, Sector 73, Sahibzada Ajit Singh Nagar, Punjab 160071",
+                "location": "SAS Nagar, Punjab",
                 "duration": "2019 - Present",
-                "description": "Working as an Android application developer with 1+ years of experience. Eager to support Adobe in modernizing world-class products and deliver an incredible user experience"
+                "description": "Working as an Android application developer with 1+ years of experience. Eager to support in modernizing world-class products and deliver an incredible user experience."
             }
         ]
     },
