@@ -186,11 +186,11 @@
                 "link": "#"
             },
             {
-                "tags": "#android",
+                "tags": "#android #liveprojects",
                 "label": "Groxery",
                 "brief": "Shop from a vast range of products including farm-fresh fruits and vegetables, groceries & more at the best prices.",
                 "image": "/files/IMG_20210122_225739.jpg",
-                "link": "#"
+                "link": "https://play.google.com/store/apps/details?id=com.ecommerce.groxery"
             },
             {
                 "tags": "#android #liveprojects",
