@@ -1,6 +1,9 @@
 {
     "config": {
-        "notify": {},
+        "justSmtp": {
+            "emailTo": "borokanak262@gmail.com",
+            "authorization": ""
+        },
         "_blank": "data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs"
     },
     "about": {
@@ -133,26 +136,25 @@
         "label": "Latest Works",
         "hastags": "android,liveprojects",
         "items": [
-
             {
                 "tags": "#android #liveprojects",
                 "label": "Hashpool",
                 "brief": "App with various types of captions , Trending HashTags and Cool Bios for your social posts",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/Hashpool_ss.jpg",
+                "image": "/files/Hashpool_ss.jpg",
                 "link": "https://bit.ly/hashpool"
             },
             {
                 "tags": "#android #liveprojects",
                 "label": "FindFit People",
                 "brief": "Find professional coaches nearby to you and easily hire your favorite one as your coach",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/FindFit_ss.jpg",
+                "image": "/files/FindFit_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.findfitpeople"
             },
             {
                 "tags": "#android #liveprojects",
                 "label": "Toor",
                 "brief": "Toor app is a great way to make your travel plans stress-free. Request a trip on demand.",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/Toor_ss.jpg",
+                "image": "/files/Toor_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.wisam.taxi"
             },
             {
@@ -166,7 +168,7 @@
                 "tags": "#android",
                 "label": "Mokabook",
                 "brief": "Shopping with Mokabook is very easy as it offers you to shop from home and get products delivered at your doorstep",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/IMG_20210122_231603.jpg",
+                "image": "/files/IMG_20210122_231603.jpg",
                 "link": "#"
             },
             {
@@ -187,35 +189,35 @@
                 "tags": "#android",
                 "label": "Groxery",
                 "brief": "Shop from a vast range of products including farm-fresh fruits and vegetables, groceries & more at the best prices.",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/IMG_20210122_225739.jpg",
+                "image": "/files/IMG_20210122_225739.jpg",
                 "link": "#"
             },
             {
                 "tags": "#android #liveprojects",
                 "label": "Beaudire",
                 "brief": "Through the app, you can book at home services - from beauty & wellness for women and men",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/Beaudire_ss.jpg",
+                "image": "/files/Beaudire_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=beaudire.service.provider"
             },
             {
                 "tags": "#android #liveprojects",
                 "label": "Genie",
                 "brief": "Through the app, you can book at home - from doctor & wellness, to home repairs and maintenance services.",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/Genie_ss.jpg",
+                "image": "/files/Genie_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.geniecustomer"
             },
             {
                 "tags": "#android",
                 "label": "Product Driver",
                 "brief": "Turn your spare time into money with the new Driver app.Help to move people and things where they need to go. No offices, no bosses.",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/IMG_20210122_230547.jpg",
+                "image": "/files/IMG_20210122_230547.jpg",
                 "link": "#"
             },
             {
                 "tags": "#android",
                 "label": "Tehbola",
                 "brief": "Through the application user can order variety of drinks from anywhere online.",
-                "image": "https://github.com/kanakboro/kanakboro.github.io/blob/master/IMG_20210122_224737.jpg",
+                "image": "/files/IMG_20210122_224737.jpg",
                 "link": "#"
             },
             {
