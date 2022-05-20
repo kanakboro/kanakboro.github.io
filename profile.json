@@ -233,7 +233,16 @@
                 "brief": "A Dating and Gaming application,through the application users can find new connections then date and play games with each other.",
                 "image": "/files/dxg.jpeg",
                 "link": "#"
+            },
+            {
+                "tags": "#android #liveprojects",
+                "label": "TechViral",
+                "brief": "Tech Viral is a tech app dedicated to providing the latest tech news & hacks.",
+                "image": "/files/TV_YouTube Channel Art 2.png",
+                "link": "https://play.google.com/store/apps/details?id=com.techviral"
             }
+            
+            
         ]
     },
 
