@@ -9,7 +9,7 @@
     "about": {
         "label": "About Me",
         "avatar": "https://www.gravatar.com/avatar/97c575589e7bb022a5fd8f0b9c7bf584.jpg?s=320",
-        "download": "/files/Kanak%20Boro.pdf",
+        "download": "/files/KANAK%20BORO.pdf",
         "signature": "/files/0423991c5fb073a39dbfc77f077f35be.png",
         "fullName": "Kanak Boro",
         "shortName": "Kanak",
@@ -19,7 +19,7 @@
         "phoneNo": "(+91) 7015766397",
         "address": "H.No:- 258,Ward No:- 8, Naraingarh(Ambala)",
         "brief": "A lad capable to turn caffeine into codes.",
-        "description": "Hello, I'm Kanak! \n A Software Developer specializing in Android Application development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including Kotlin, Core Java etc.\"",
+        "description": "I'm a software engineer specializing in Android Application development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including Kotlin, Core Java etc. Developed applications across various Industry Verticals: Food Delivery, eLearning, Social Media, e-commerce, Fitness, Tech News etc.",
         "gmap": {
             "lat": "30.4785",
             "long": "77.1313",
@@ -51,7 +51,7 @@
             },
             {
                 "title": "Assamese",
-                "amount": "99",
+                "amount": "100",
                 "level": "Native"
             }
         ]
@@ -66,38 +66,49 @@
             },
             {
                 "title": "Kotlin",
-                "amount": 85
+                "amount": 91
             },
             {
                 "title": "Core Java",
-                "amount": 89
+                "amount": 87
             },
             {
                 "title": "Socket.io",
-                "amount": 72
+                "amount": 80
             },
             {
                 "title": "Rest API",
-                "amount": 93
+                "amount": 95
             },
             {
                 "title": "UI Design (XML)",
-                "amount": 97
+                "amount": 98
             },
             {
                 "title": "Firebase",
-                "amount": 84
+                "amount": 85
             },
             {
-                "title": "C",
-                "amount": 65
+                "title": "MVC & MVVM",
+                "amount": 88
+            },
+            {
+                "title": "Git",
+                "amount": 80
             }
         ]
     },
 
     "experience": {
-        "label": "Livelihood",
+        "label": "Work Experience",
         "items": [
+            {
+                "title": "Android Developer",
+                "place": "Appinventiv - Mobile App Development Company",
+                "location": "Mohali, Punjab",
+                "duration": "Oct 2021 - Present",
+                "description": "Collaborate with cross-functional teams to define, design, and ship new features. Experience with Agile development process.And integrated various Third parties like payment gateways, social APIs, Firebase, Zendesk, CleverTap etc."
+            },
             {
                 "title": "Android Developer",
                 "place": "Apptunix - Mobile App Development Company",
@@ -109,7 +120,7 @@
     },
 
     "education": {
-        "label": "Scholastic",
+        "label": "Academic History",
         "items": [
             {
                 "course": "Bachelor of Technology",
