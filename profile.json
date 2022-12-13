@@ -15,7 +15,7 @@
         "shortName": "Kanak",
         "highlights": "Android Developer",
         "birthDate": "Mar 01",
-        "email": "borokanak262@gmail.com",
+        "email": "kanak.own@gmail.com",
         "phoneNo": "(+91) 7015766397",
         "address": "H.No:- 258,Ward No:- 8, Naraingarh(Ambala)",
         "brief": "A lad capable to turn caffeine into codes.",
@@ -251,6 +251,13 @@
                 "brief": "Tech Viral is a tech app dedicated to providing the latest tech news & hacks.",
                 "image": "/files/techviral.png",
                 "link": "https://play.google.com/store/apps/details?id=com.techviral"
+            },
+            {
+                "tags": "#android #liveprojects",
+                "label": "Booked India – A Safer Today",
+                "brief": "Booked helps to make the roads safe, for our children & for our parents, and with your contribution, we will build a safer and a better India.",
+                "image": "/files/booked.png",
+                "link": "https://play.google.com/store/apps/details?id=com.bookedindia"
             }
             
             
