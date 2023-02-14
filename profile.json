@@ -66,7 +66,7 @@
             },
             {
                 "title": "Kotlin",
-                "amount": 91
+                "amount": 92
             },
             {
                 "title": "Core Java",
@@ -89,12 +89,24 @@
                 "amount": 85
             },
             {
+                "title": "Room Database",
+                "amount": 92
+            },
+            {
+                "title": "SQLite",
+                "amount": 85
+            },
+            {
+                "title": "Clevertap",
+                "amount": 70
+            },
+            {
                 "title": "MVC & MVVM",
                 "amount": 88
             },
             {
                 "title": "Git",
-                "amount": 80
+                "amount": 70
             }
         ]
     },
@@ -145,45 +157,45 @@
 
     "portfolio": {
         "label": "Latest Works",
-        "hastags": "android,liveprojects",
+        "hastags": "Android,Liveprojects",
         "items": [
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "Toor",
                 "brief": "Toor app is a great way to make your travel plans stress-free. Request a trip on demand.",
                 "image": "/files/Toor_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.wisam.taxi"
             },
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "Stay Home",
                 "brief": "Courier any product to your favorite one from anywhere .'STAY HOME' we are here for you!",
                 "image": "https://picsum.photos/id/304/480/320",
                 "link": "#"
             },
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "Mokabook",
                 "brief": "Shopping with Mokabook is very easy as it offers you to shop from home and get products delivered at your doorstep",
                 "image": "/files/IMG_20210122_231603.jpg",
                 "link": "#"
             },
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "Bigi Driver",
                 "brief": "Driver application to deliver orders to the customers. Driver can register with their comfortable delivery type i.e Food , Groxery and Taxi",
                 "image": "https://picsum.photos/id/301/480/320",
                 "link": "#"
             },
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "Bigi Customer",
                 "brief": "Throughthe app order (Food,Groxery and Taxi), Live Track the order and Accept order from the Bigi Driver.",
                 "image": "https://picsum.photos/id/326/480/320",
                 "link": "#"
             },
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "Product Driver",
                 "brief": "Turn your spare time into money with the new Driver app.Help to move people and things where they need to go. No offices, no bosses.",
                 "image": "/files/IMG_20210122_230547.jpg",
@@ -197,77 +209,77 @@
                 "link": "#"
             },
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "Mazat",
                 "brief": "Find your favourite local restaurants, as well as top chains like Dominos, Burger King and more, then Order food, groceries, and other essentials online.",
                 "image": "https://picsum.photos/id/484/478/320",
                 "link": "#"
             },
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "DXG",
                 "brief": "A Dating and Gaming application,through the application users can find new connections then date and play games with each other.",
                 "image": "/files/dxg.jpeg",
                 "link": "#"
             },
             {
-                "tags": "#android",
+                "tags": "#Android",
                 "label": "The Body Shop",
                 "brief": "This is an one-stop-shop for all things skincare, haircare, bath & body and self-love. Shop your best-loved beauty bits today.",
                 "image": "/files/body_shop.jpg",
                 "link": "#"
             },
             {
-                "tags": "#android #liveprojects",
+                "tags": "#Android #Liveprojects",
                 "label": "TechViral",
                 "brief": "Tech Viral is a tech app dedicated to providing the latest tech news & hacks.",
                 "image": "/files/techviral.png",
                 "link": "https://play.google.com/store/apps/details?id=com.techviral"
             },
             {
-                "tags": "#android #liveprojects",
+                "tags": "#Android #Liveprojects",
                 "label": "Booked India – A Safer Today",
                 "brief": "Booked helps to make the roads safe, for our children & for our parents, and with your contribution, we will build a safer and a better India.",
                 "image": "/files/booked.png",
                 "link": "https://play.google.com/store/apps/details?id=com.bookedindia"
             },
             {
-                "tags": "#android #liveprojects",
+                "tags": "#Android #Liveprojects",
                 "label": "Groxery",
                 "brief": "Shop from a vast range of products including farm-fresh fruits and vegetables, groceries & more at the best prices.",
                 "image": "/files/IMG_20210122_225739.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.ecommerce.groxery"
             },
             {
-                "tags": "#android #liveprojects",
+                "tags": "#Android #Liveprojects",
                 "label": "Beaudire",
                 "brief": "Through the app, you can book at home services - from beauty & wellness for women and men",
                 "image": "/files/Beaudire_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=beaudire.service.provider"
             },
             {
-                "tags": "#android #liveprojects",
+                "tags": "#Android #Liveprojects",
                 "label": "Genie",
                 "brief": "Through the app, you can book at home - from doctor & wellness, to home repairs and maintenance services.",
                 "image": "/files/Genie_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.geniecustomer"
             },
             {
-                "tags": "#android #liveprojects",
+                "tags": "#Android #Liveprojects",
                 "label": "Hashpool",
                 "brief": "App with various types of captions , Trending HashTags and Cool Bios for your social posts",
                 "image": "/files/Hashpool_ss.jpg",
                 "link": "https://bit.ly/hashpool"
             },
             {
-                "tags": "#android #liveprojects",
+                "tags": "#Android #Liveprojects",
                 "label": "FindFit People",
                 "brief": "Find professional coaches nearby to you and easily hire your favorite one as your coach",
                 "image": "/files/FindFit_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.findfitpeople"
             },
             {
-                "tags": "#android #liveprojects",
+                "tags": "#Android #Liveprojects",
                 "label": "Latest Sightings - See More!",
                 "brief": "Latest Sightings is an app where visitors to the Kruger National Park, soon Pilanesberg, can share their wildlife sightings, in real time, with other visitors in the game reserve and also to users world wide.",
                 "image": "/files/latest_sight.png",
