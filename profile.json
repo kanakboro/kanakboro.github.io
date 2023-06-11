@@ -115,10 +115,17 @@
         "label": "Work Experience",
         "items": [
             {
+                "title": "Product Engineer 2",
+                "place": "Ezetap by Razorpay",
+                "location": "Bengaluru, Karnataka",
+                "duration": "Mar 2023 - Present",
+                "description": ""
+            },
+            {
                 "title": "Android Developer",
                 "place": "Appinventiv - Mobile App Development Company",
                 "location": "Mohali, Punjab",
-                "duration": "Oct 2021 - Present",
+                "duration": "Oct 2021 - Feb 2023",
                 "description": "Collaborate with cross-functional teams to define, design, and ship new features. Experience with Agile development process.And integrated various Third parties like payment gateways, social APIs, Firebase, Zendesk, CleverTap etc."
             },
             {
