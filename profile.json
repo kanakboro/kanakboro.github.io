@@ -17,7 +17,7 @@
         "birthDate": "Mar 01",
         "email": "kanak.own@gmail.com",
         "phoneNo": "(+91) 7015766397",
-        "address": "H.No:- 258,Ward No:- 8, Naraingarh(Ambala)",
+        "address": "Bangalore",
         "brief": "A lad capable to turn caffeine into codes.",
         "description": "I'm a software engineer specializing in Android Application development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including Kotlin, Core Java etc. Developed applications across various Industry Verticals: Food Delivery, eLearning, Social Media, e-commerce, Fitness, Tech News etc.",
         "gmap": {
@@ -41,7 +41,7 @@
         "items": [
             {
                 "title": "English",
-                "amount": "85",
+                "amount": "90",
                 "level": "Proficient"
             },
             {
@@ -107,6 +107,18 @@
             {
                 "title": "Git",
                 "amount": 70
+            },
+            {
+                "title": "Posthog",
+                "amount": 65
+            },
+            {
+                "title": "Zenduty",
+                "amount": 70
+            },
+            {
+                "title": "GrayLog",
+                "amount": 75
             }
         ]
     },
@@ -116,10 +128,10 @@
         "items": [
             {
                 "title": "Product Engineer 2",
-                "place": "Ezetap by Razorpay",
+                "place": "Razorpay POS",
                 "location": "Bengaluru, Karnataka",
                 "duration": "Mar 2023 - Present",
-                "description": ""
+                "description": "Experience in integrating Android apps with POS systems. I have hands-on expertise in debugging to improve app performance and add new capabilities. I'm skilled at using tools like Posthog to analyze user behavior, Graylog for monitoring and troubleshooting app performance, and Zenduty for managing critical incidents and ensuring smooth operations. I thrive in Agile teams, where I work collaboratively to drive the development of high-quality, efficient solutions."
             },
             {
                 "title": "Android Developer",
@@ -234,7 +246,7 @@
                 "label": "The Body Shop",
                 "brief": "This is an one-stop-shop for all things skincare, haircare, bath & body and self-love. Shop your best-loved beauty bits today.",
                 "image": "/files/body_shop.jpg",
-                "link": "#"
+                "link": "https://play.google.com/store/apps/details?id=com.bodyshop&hl=en_IN"
             },
             {
                 "tags": "#Android #Liveprojects",
