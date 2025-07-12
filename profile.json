@@ -17,12 +17,12 @@
         "birthDate": "Mar 01",
         "email": "kanak.own@gmail.com",
         "phoneNo": "(+91) 7015766397",
-        "address": "Bangalore",
+        "address": "Tihu, Assam",
         "brief": "A lad capable to turn caffeine into codes.",
         "description": "Android Developer with over 5.6+ years of experience designing and delivering scalable, high-performance mobile apps using Kotlin and Java. Skilled in Android SDK, Jetpack, MVVM architecture, and third-party integrations. Proven ability to reduce app crash rates, improve performance, and manage complete project lifecycles. Developed applications across various Industry Verticals: Food Delivery, eLearning, Social Media, e-commerce, Fitness, Tech News etc.",
         "gmap": {
-            "lat": "30.4785",
-            "long": "77.1313",
+            "lat": "26.487588",
+            "long": "91.296416",
             "zoom": "14"
         }
     },
