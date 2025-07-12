@@ -1,7 +1,7 @@
 {
     "config": {
         "justSmtp": {
-            "emailTo": "borokanak262@gmail.com",
+            "emailTo": "kanak.own@gmail.com",
             "authorization": ""
         },
         "_blank": "data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs"
@@ -19,7 +19,7 @@
         "phoneNo": "(+91) 7015766397",
         "address": "Bangalore",
         "brief": "A lad capable to turn caffeine into codes.",
-        "description": "I'm a software engineer specializing in Android Application development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including Kotlin, Core Java etc. Developed applications across various Industry Verticals: Food Delivery, eLearning, Social Media, e-commerce, Fitness, Tech News etc.",
+        "description": "Android Developer with over 5.6+ years of experience designing and delivering scalable, high-performance mobile apps using Kotlin and Java. Skilled in Android SDK, Jetpack, MVVM architecture, and third-party integrations. Proven ability to reduce app crash rates, improve performance, and manage complete project lifecycles. Developed applications across various Industry Verticals: Food Delivery, eLearning, Social Media, e-commerce, Fitness, Tech News etc.",
         "gmap": {
             "lat": "30.4785",
             "long": "77.1313",
@@ -110,7 +110,7 @@
             },
             {
                 "title": "Posthog",
-                "amount": 65
+                "amount": 75
             },
             {
                 "title": "Zenduty",
@@ -118,7 +118,15 @@
             },
             {
                 "title": "GrayLog",
-                "amount": 75
+                "amount": 70
+            },
+            {
+                "title": "Jira",
+                "amount": 65
+            },
+            {
+                "title": "Devrev",
+                "amount": 55
             }
         ]
     },
@@ -128,7 +136,7 @@
         "items": [
             {
                 "title": "Product Engineer 2",
-                "place": "Razorpay POS",
+                "place": "Razorpay",
                 "location": "Bengaluru, Karnataka",
                 "duration": "Mar 2023 - Present",
                 "description": "Experience in integrating Android apps with POS systems. I have hands-on expertise in debugging to improve app performance and add new capabilities. I'm skilled at using tools like Posthog to analyze user behavior, Graylog for monitoring and troubleshooting app performance, and Zenduty for managing critical incidents and ensuring smooth operations. I thrive in Agile teams, where I work collaboratively to drive the development of high-quality, efficient solutions."
@@ -242,11 +250,11 @@
                 "link": "#"
             },
             {
-                "tags": "#Android",
+                "tags": "#Android #Liveprojects",
                 "label": "The Body Shop",
                 "brief": "This is an one-stop-shop for all things skincare, haircare, bath & body and self-love. Shop your best-loved beauty bits today.",
                 "image": "/files/body_shop.jpg",
-                "link": "https://play.google.com/store/apps/details?id=com.bodyshop&hl=en_IN"
+                "link": "https://play.google.com/store/apps/details?id=com.bodyshop"
             },
             {
                 "tags": "#Android #Liveprojects",
@@ -263,21 +271,21 @@
                 "link": "https://play.google.com/store/apps/details?id=com.bookedindia"
             },
             {
-                "tags": "#Android #Liveprojects",
+                "tags": "#Android",
                 "label": "Groxery",
                 "brief": "Shop from a vast range of products including farm-fresh fruits and vegetables, groceries & more at the best prices.",
                 "image": "/files/IMG_20210122_225739.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.ecommerce.groxery"
             },
             {
-                "tags": "#Android #Liveprojects",
+                "tags": "#Android",
                 "label": "Beaudire",
                 "brief": "Through the app, you can book at home services - from beauty & wellness for women and men",
                 "image": "/files/Beaudire_ss.jpg",
                 "link": "https://play.google.com/store/apps/details?id=beaudire.service.provider"
             },
             {
-                "tags": "#Android #Liveprojects",
+                "tags": "#Android",
                 "label": "Genie",
                 "brief": "Through the app, you can book at home - from doctor & wellness, to home repairs and maintenance services.",
                 "image": "/files/Genie_ss.jpg",
@@ -291,7 +299,7 @@
                 "link": "https://bit.ly/hashpool"
             },
             {
-                "tags": "#Android #Liveprojects",
+                "tags": "#Android",
                 "label": "FindFit People",
                 "brief": "Find professional coaches nearby to you and easily hire your favorite one as your coach",
                 "image": "/files/FindFit_ss.jpg",
@@ -303,6 +311,27 @@
                 "brief": "Latest Sightings is an app where visitors to the Kruger National Park, soon Pilanesberg, can share their wildlife sightings, in real time, with other visitors in the game reserve and also to users world wide.",
                 "image": "/files/latest_sight.png",
                 "link": "https://play.google.com/store/apps/details?id=com.latestsightings.app"
+            },
+            {
+                "tags": "#Android #Liveprojects",
+                "label": "Razorpay mPOS",
+                "brief": "Razorpay mPOS payments app comes with exciting tools to help merchants accept payments and do more!",
+                "image": "#",
+                "link": "https://play.google.com/store/apps/details?id=com.ezetap.basicapp"
+            },
+            {
+                "tags": "#Android #Liveprojects",
+                "label": "Razorpay POS Service",
+                "brief": "Razorpay POS Service app makes it easier for your store personnel and delivery agents to collect payments easily. This app is only for merchants whose business systems and apps have already been integrated with Razorpay’s POS solutions.",
+                "image": "#",
+                "link": "https://play.google.com/store/apps/details?id=com.ezetap.service.rzp"
+            },
+            {
+                "tags": "#Android #Liveprojects",
+                "label": "EzeAPI Sample",
+                "brief": "Sample App is desgin for testing our payment wrapper SDK which will communicate with the payment app for your business that can help you collect payments by converting your smartphone into a payment terminal.",
+                "image": "#",
+                "link": "https://play.google.com/store/apps/details?id=com.ezeapi.sample"
             }
             
         ]
