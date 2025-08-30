@@ -62,15 +62,15 @@
         "items": [
             {
                 "title": "Android Studio",
-                "amount": 96
+                "amount": 97
             },
             {
                 "title": "Kotlin",
-                "amount": 92
+                "amount": 95
             },
             {
                 "title": "Core Java",
-                "amount": 87
+                "amount": 90
             },
             {
                 "title": "Socket.io",
@@ -78,7 +78,7 @@
             },
             {
                 "title": "Rest API",
-                "amount": 95
+                "amount": 99
             },
             {
                 "title": "UI Design (XML)",
@@ -90,7 +90,7 @@
             },
             {
                 "title": "Room Database",
-                "amount": 92
+                "amount": 98
             },
             {
                 "title": "SQLite",
@@ -98,35 +98,35 @@
             },
             {
                 "title": "Clevertap",
-                "amount": 70
+                "amount": 80
             },
             {
                 "title": "MVC & MVVM",
-                "amount": 88
+                "amount": 99
             },
             {
                 "title": "Git",
-                "amount": 70
+                "amount": 80
             },
             {
                 "title": "Posthog",
-                "amount": 75
+                "amount": 85
             },
             {
                 "title": "Zenduty",
-                "amount": 70
+                "amount": 85
             },
             {
                 "title": "GrayLog",
-                "amount": 70
+                "amount": 80
             },
             {
                 "title": "Jira",
-                "amount": 65
+                "amount": 85
             },
             {
                 "title": "Devrev",
-                "amount": 55
+                "amount": 85
             }
         ]
     },
@@ -135,7 +135,7 @@
         "label": "Work Experience",
         "items": [
             {
-                "title": "Product Engineer 2",
+                "title": "Senior Software Engineer",
                 "place": "Razorpay",
                 "location": "Bengaluru, Karnataka",
                 "duration": "Mar 2023 - Present",
