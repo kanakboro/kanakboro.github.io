@@ -17,12 +17,12 @@
         "birthDate": "Mar 01",
         "email": "kanak.own@gmail.com",
         "phoneNo": "(+91) 7015766397",
-        "address": "Bangalore",
+        "address": "Gurugram, Haryana, 122101",
         "brief": "A lad capable to turn caffeine into codes.",
         "description": "Experienced Android Developer with 5+ years of building high-performance, user-focused apps. Leading feature development, mentoring junior engineers, and driving end-to-end delivery in cross-functional teams. Focused on clean, efficient code aligned with business goals. Proficient in leveraging AI tools to boost development, code quality and prototyping.",
         "gmap": {
-            "lat": "12.923664",
-            "long": "77.610084",
+            "lat": "28.394500",
+            "long": "77.046422",
             "zoom": "14"
         }
     },
