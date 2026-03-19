@@ -135,10 +135,17 @@
         "label": "Work Experience",
         "items": [
             {
+                "title": "Principal Software Engineer",
+                "place": "IndMoney",
+                "location": "Gurugram, Haryana",
+                "duration": "Nov 2025 - Present",
+                "description": "Led Android platform architecture and strategy, driving scalability, modularization, and performance improvements while establishing standards, reusable components, and internal SDKs, mentoring engineers, and guiding architectural decisions for long-term platform evolution."
+            },
+            {
                 "title": "Senior Software Engineer 2",
                 "place": "Razorpay",
                 "location": "Bengaluru, Karnataka",
-                "duration": "Mar 2023 - Present",
+                "duration": "Mar 2023 - Nov 2025",
                 "description": "Experience in integrating Android apps with POS systems. I have hands-on expertise in debugging to improve app performance and add new capabilities. I'm skilled at using tools like Posthog to analyze user behavior, Graylog for monitoring and troubleshooting app performance, and Zenduty for managing critical incidents and ensuring smooth operations. I thrive in Agile teams, where I work collaboratively to drive the development of high-quality, efficient solutions."
             },
             {
@@ -186,6 +193,13 @@
         "label": "Latest Works",
         "hastags": "Android,Liveprojects",
         "items": [
+            {
+                "tags": "#Android #Liveprojects",
+                "label": "INDmoney: Indian & US Stocks, SIP, Flash Trading",
+                "brief": "INDmoney is a wealth management app that lets you track, invest, and manage your finances—including stocks, mutual funds, and expenses—all in one place.",
+                "image": "/files/indmoney.webp",
+                "link": "https://play.google.com/store/apps/dev?id=5500764603618407609&hl=en_IN"
+            },
             {
                 "tags": "#Android",
                 "label": "Toor",
